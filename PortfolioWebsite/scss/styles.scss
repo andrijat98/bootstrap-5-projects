@@ -20,6 +20,9 @@
 .header .social {
   bottom: 50px;
 }
+.about-image {
+  width: 200px;
+}
 
 @media (max-width: 767px) {
   .header .social i {
@@ -27,5 +30,8 @@
   }
   .header .roles {
     font-size: 18px !important;
+  }
+  .about-content {
+    flex-direction: column;
   }
 }
