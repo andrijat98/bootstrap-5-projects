@@ -1,4 +1,8 @@
 /.idea
 /EBookWebsite/node_modules/
 /CorsoTrainingWebsite/node_modules/
+/PortfolioWebsite/node_modules/
 /CorsoTrainingWebsite/css/
+/PortfolioWebsite/css/bootstrap.css
+/PortfolioWebsite/css/font-awesome.css
+/PortfolioWebsite/css/styles.css
