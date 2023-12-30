@@ -1,7 +1,7 @@
 {
-  "name": "ebookwebsite",
+  "name": "verasoftware",
   "version": "1.0.0",
-  "description": "Ebook website",
+  "description": "Vera Software Solutions",
   "main": "index.js",
   "scripts": {
     "sass:build": "sass --no-source-map scss:css",
