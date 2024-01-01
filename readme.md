@@ -2,6 +2,12 @@
 
 Projects created by following "Bootstrap 5 From Scratch - Build 5 Modern Websites" <a href="https://www.udemy.com/course/bootstrap-from-scratch/">course</a> from Udemy.
 
+![Screenshot_1](https://github.com/andrijat98/bootstrap-5-projects/assets/113612986/feb74666-5420-4d07-bb40-de325aa83a73)
+![Screenshot_2](https://github.com/andrijat98/bootstrap-5-projects/assets/113612986/c43d92ae-90ba-47d1-887a-bf2bbc7e05b2)
+![Screenshot_3](https://github.com/andrijat98/bootstrap-5-projects/assets/113612986/409e2c35-0288-4011-b601-015d8f60e6ef)
+![Screenshot_4](https://github.com/andrijat98/bootstrap-5-projects/assets/113612986/688befc8-a8e1-409d-9ab2-0670b6739934)
+
+
 ## Features
 
 - Dark design with bright buttons & text for contrast
